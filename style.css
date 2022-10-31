@@ -1,0 +1,27 @@
+form {
+
+    background-color: #181c1f;
+    width: 150px;
+    display: flex;
+    padding: 20px;
+}
+
+.button{
+
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    background-color: #cc2200;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+    white-space: nowrap;
+
+}
+
+.button:hover{
+
+    background-color: #f22800;
+}

@@ -1,0 +1,16 @@
+{
+"name": "OutSystems Extension",
+"description": "Enable fields",
+"version": "1.0",
+"manifest_version": 3,
+"permissions": ["activeTab", "scripting"],
+"icons": {
+    "16":"out.png",
+    "48":"out.png",
+    "128":"out.png"
+},
+"action": {
+    "default_popup" : "index.html"
+}
+
+}
